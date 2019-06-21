@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - STCTutkSDK (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - STCTutkSDK (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  STCTutkSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  STCTutkSDK: 0f69a88db727c34d6e8aea81e6e1239401fd2aa9
+
+PODFILE CHECKSUM: 91814fe75c1fcd92783fde20d3c00208f01142b3
+
+COCOAPODS: 1.5.3

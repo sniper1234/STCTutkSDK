@@ -1,0 +1,6 @@
+framework module STCTutkSDK {
+  umbrella header "STCTutkSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

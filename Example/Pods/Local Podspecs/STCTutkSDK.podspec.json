@@ -1,0 +1,22 @@
+{
+  "name": "STCTutkSDK",
+  "version": "0.1.0",
+  "summary": "A short description of STCTutkSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sniper1234/STCTutkSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sniper1234": "pengfeichen.cn@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sniper1234/STCTutkSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "STCTutkSDK/Classes/**/*"
+}
