@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'STCTutkSDK_Example' do
+  pod 'STCTutkSDK', :path => '../'
+
+  target 'STCTutkSDK_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
